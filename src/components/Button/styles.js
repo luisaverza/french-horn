@@ -1,0 +1,28 @@
+export default {
+  buttonBottom: {
+    backgroundColor: '#37D9B4',
+    marginTop: 20,
+    marginBottom: 10,
+    height: 60,
+    width: 377,
+    fontSize: 22,
+    fontFamily: 'Roboto-Thin',
+    color: '#fff',
+    borderWidth: 0,
+    boxShadow: '0 1px 6px rgba(0, 0, 0, 0.19)',
+  },
+  buttonRight: {
+    backgroundColor: 'rgb(25, 210, 166, 0.60)',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'center',
+    height: 367,
+    width: 185,
+    borderWidth: 0,
+    padding: 17,
+    textAlign: 'Left',
+    color: '#fff',
+    fontSize: 24,
+    fontFamily: 'Roboto-Thin',
+  },
+}

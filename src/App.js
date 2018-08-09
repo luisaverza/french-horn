@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
+import { Provider } from 'react-redux';
+import './index.css';
+import store from './store';
+import RandomContainer from './container/Random';
 
-
-class App extends Component {
-  render() {
-    return (
-      <div>Random Discogs</div>
-    );
-  }
-}
+const App = () =>
+  <Provider store={store}>
+    <RandomContainer/>
+  </Provider>
 
 export default App;
