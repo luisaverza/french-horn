@@ -8,8 +8,7 @@ A random selector for albums for the following API
 - Tests: `yarn test`
 
 ### UX Design
-- Mobile: https://projects.invisionapp.com/share/W6NFJXTNA9M#/screens
-- Web: https://projects.invisionapp.com/share/NCNFJY8W5TK
+- [Behance](https://www.behance.net/gallery/68956501/RandomDisco)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
